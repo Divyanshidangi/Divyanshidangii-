@@ -1,6 +1,6 @@
 # Divyanshidangi
 
-Hi! I'm Divyanshi 
+Hi, I'm Divyanshi 
 
 This is my very first GitHub repository.  
 I'm a B.Tech student in CSE (Blockchain).  
